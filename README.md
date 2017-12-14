@@ -9,5 +9,5 @@ A collection of docker learning.
 3.more command  
 <code>docker</code>  
 ## day-02
-4.search image from docker hub
+4.search image from docker hub  
 <code>docker search java</code>
